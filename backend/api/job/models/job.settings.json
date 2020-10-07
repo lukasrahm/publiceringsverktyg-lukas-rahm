@@ -2,11 +2,13 @@
   "kind": "collectionType",
   "collectionName": "jobs",
   "info": {
-    "name": "job"
+    "name": "job",
+    "description": ""
   },
   "options": {
     "increments": true,
-    "timestamps": true
+    "timestamps": true,
+    "draftAndPublish": false
   },
   "attributes": {
     "company": {
@@ -21,7 +23,7 @@
       "type": "string",
       "required": true
     },
-    "desc": {
+    "description": {
       "type": "component",
       "repeatable": true,
       "component": "description.job-description",
