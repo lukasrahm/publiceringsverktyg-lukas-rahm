@@ -1,0 +1,8 @@
+{
+    "provider": "cloudinary",
+    "providerOptions": {
+      "cloud_name": "rahmcloud",
+      "api_key": "434631773466696",
+      "api_secret": "8wtyYKbbzdzKo-AhqIgNY7LSMko"
+    }
+  }
