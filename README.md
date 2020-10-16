@@ -1,4 +1,23 @@
 ## Setup Notes
+1. Open the project folder in visual code
+2. Run 'npm install' in the terminal
+3. Run 'gatsby develop' or if gatsby is not recognized you can run 'npm run develop'
+4. Open a new visual code in the 'backend' folder
+5. Run 'npm install' in the terminal
+6. Run 'npm run develop' to start Strapi
+7. Open chrome
+
+Gatsby website is on localhost:8000 
+Strapi is on localhost:1337
+
+
+
+
+
+
+
+_________________________________________________________________________________
+## Old readme from starter-pack
 
 1. All components ready to go (including imports)
 2. Use main.css - less imports
