@@ -230,6 +230,7 @@ Navbar
   align-items: center;
 }
 .nav-header img {
+  max-height: 50px;
   margin-bottom: 0.375rem;
 }
 .toggle-btn {
